@@ -1,0 +1,12 @@
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-google-genai
+ipykernel
+python-dotenv
+tavily-python
+pymupdf
+tree-sitter
+tree-sitter-python
+langgraph
