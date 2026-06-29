@@ -5,10 +5,6 @@ langchain-groq
 langchain-google-genai
 ipykernel
 python-dotenv
-tavily-python
-deepagents
 pymupdf
 tree-sitter
 tree-sitter-python
-torch
-Transformers
